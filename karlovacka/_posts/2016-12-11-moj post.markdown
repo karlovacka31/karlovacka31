@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Prvi uspesan post!"
+date:   2016-12-11 00:10:24 +0100
+categories: jekyll update
+---
+
+Prvi uspesan post!
